@@ -18,6 +18,12 @@
       Simple DirectMedia Layer is a cross-platform development library that provides low level access to audio, keyboard, mouse, joystick, and graphics       hardware via OpenGL and Direct3D.<br><br>
       You can see presentation files (pptx, pdf) to learn more about our game or clone this repo and play by yourself!
   </p>
+    <h2 align="center">Our team</h2>
+    <h2 align="center">Here some screenshots from the game</h2>
+    <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/screen1.png?raw=true"></p>
+    <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/screen2.png?raw=true"></p>
+    <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/screen3.jpeg?raw=true"></p>
+    <p align="center"><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/screen4.png?raw=true"></p>
 </body>
 <footer>
   <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></p>
