@@ -16,7 +16,7 @@
   <p>It was made after the C Marathon at the UCODE Academy. We had only a week to make the best game we can. And we've made this - Matrix Run!<br>
       We used graphic library named <a href="https://www.libsdl.org/index.php" target="_blank">SDL2.<br><img src="https://github.com/PAXANDDOS/UCODE-Marathon-C/blob/master/.git_images/sdl.png?raw=true" height="100px"></a><br>
       Simple DirectMedia Layer is a cross-platform development library that provides low level access to audio, keyboard, mouse, joystick, and graphics       hardware via OpenGL and Direct3D.<br><br>
-      You can see presentation files (pptx, pdf) to learn more about our game or clone this repo and play by yourself!
+      You can see presentation file to learn more about our game or clone this repo and play by yourself!
   </p>
     <h2 align="center">Our team</h2>
     <p align="center">This people turned the idea into reality. You can see our names and Telegrams. Also click to visit Github page!</p>
